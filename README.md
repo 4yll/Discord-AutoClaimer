@@ -1,7 +1,10 @@
 # Discord-AutoClaimer
 
+Best discord autoclaimer
 
-Discord AutoClaimer and Monitor for username tracking
+What We Offer:
+• Dis Claimer
+• Insta Claimer
+• Username Monitor (tracks release date)
 
-
-@fmmv on discord or discord.gg/CMA3kY5RBF
+https://discord.gg/JpWbSb8H
