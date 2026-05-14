@@ -8,4 +8,6 @@ What We Offer:
 
 • Username Monitor (tracks release date)
 
-https://discord.gg/JpWbSb8H
+https://discord.gg/claimers
+
+or dm @fmmv
