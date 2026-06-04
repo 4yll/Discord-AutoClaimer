@@ -1,13 +1,7 @@
-# Discord-AutoClaimer
-
-Best discord autoclaimer
-
-What We Offer:
-
-• Dis Claimer
+• Discord autoclaimer
 
 • Username Monitor (tracks release date)
 
-https://discord.gg/claimers
+Dm @fmmv
 
-or dm @fmmv
+https://discord.gg/claimers
