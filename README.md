@@ -2,6 +2,6 @@
 
 • Username Monitor (tracks release date)
 
-Dm @fmmv
+Discord @fmmv
 
-https://discord.gg/claimers
+https://discord.gg/NeHJVSdjUh
