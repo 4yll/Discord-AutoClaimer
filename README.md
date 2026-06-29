@@ -6,4 +6,5 @@ One of the best claimers in the com rn (look at the pic)
 
 
 Discord @4yl
+
 discord.gg/sample
