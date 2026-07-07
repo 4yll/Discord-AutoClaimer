@@ -1,27 +1,42 @@
-Discord
+
 • Discord Claimer
  
 Features:
+
 - Discord cmds
+
 - Set threads
+
 - Single target claim
+
 - Full list auto-loop
+
 - Works on PC + Phone
  
 Commands:
+
 /set – Add token
+
 /proxy – Add proxy
+
 /threads – Set threads
+
 /checker – Claim one name
+
 /list – Upload name list
+
 /nt – Update token
  
  
  
 PRICING OPTIONS
+
 $10  ─  1 Day Access
+
 $30  ─  1 Week Access
+
 $60  ─  1 Month Access
+
 $165 ─  Lifetime Access
 
 
