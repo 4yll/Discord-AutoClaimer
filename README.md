@@ -31,13 +31,13 @@ Commands:
  
 PRICING OPTIONS
 
-$10  ─  1 Day Access
+$5  → 1 Day Access
 
-$30  ─  1 Week Access
+$15 → 1 Week Access
 
-$60  ─  1 Month Access
+$40 → 1 Month Access
 
-$165 ─  Lifetime Access
+$65 → 2 Month Access
 
 
 Discord @4yl
