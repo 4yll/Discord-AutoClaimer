@@ -12,6 +12,6 @@ $40 → 1 Month Access
 $65 → 2 Month Access
 
 
-Discord @cozh
+Discord @nevergettingthere
 
-discord.gg/rTqGrAtsQb
+discord.gg/xbs
