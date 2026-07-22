@@ -12,6 +12,6 @@ $40 → 1 Month Access
 $65 → 2 Month Access
 
 
-Discord:_____0_______
+Discord:4yl
 
 discord.gg/xbs
